@@ -1,6 +1,6 @@
 # ravity-g
 obliczator przyspieszenia ziemskiego przy użyciu barometru smartfona
-
+by Wojciech Dwojga Nazwisk & Szymon W.
 <h2>Struktura i działanie projektu</h2>
 Projekt był robiony pod Samsunga S24 (Android 14) i na nim testowany. Nie gwarantuję działania na innych urządzeniach.
 Projekt składa się z trzech głównych modułów:
